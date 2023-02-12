@@ -1,1 +1,1 @@
-# C++ course with G++ compiler in a Apple silicon machine.
+# C++ course with G++ compiler on an Apple silicon machine.
