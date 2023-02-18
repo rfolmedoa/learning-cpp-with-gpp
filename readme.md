@@ -1,1 +1,1 @@
-# C++ course with G++ compiler on macOS
+# C++ course with G++ compiler.
