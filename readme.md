@@ -1,1 +1,1 @@
-# C++ course with G++ compiler.
+# C++ course with G++ compiler
